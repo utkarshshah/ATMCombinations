@@ -1,0 +1,6 @@
+c:\users\utkarsh\documents\visual studio 2015\Projects\ATMCombinations\ATMCombinations\bin\Debug\ATMCombinations.exe.config
+C:\Users\utkarsh\documents\visual studio 2015\Projects\ATMCombinations\ATMCombinations\bin\Debug\ATMCombinations.exe
+C:\Users\utkarsh\documents\visual studio 2015\Projects\ATMCombinations\ATMCombinations\bin\Debug\ATMCombinations.pdb
+C:\Users\utkarsh\documents\visual studio 2015\Projects\ATMCombinations\ATMCombinations\obj\Debug\ATMCombinations.csprojResolveAssemblyReference.cache
+C:\Users\utkarsh\documents\visual studio 2015\Projects\ATMCombinations\ATMCombinations\obj\Debug\ATMCombinations.exe
+C:\Users\utkarsh\documents\visual studio 2015\Projects\ATMCombinations\ATMCombinations\obj\Debug\ATMCombinations.pdb
